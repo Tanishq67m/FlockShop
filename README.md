@@ -431,12 +431,7 @@ NODE_ENV=production
 - TypeScript for full-stack development
 - Enterprise-grade UI/UX principles
 
-## 📞 **Contact & Support**
 
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
