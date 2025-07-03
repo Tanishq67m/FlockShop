@@ -8,7 +8,13 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.3-green)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-cyan)](https://tailwindcss.com/)
 
+
+### ✅ Live Link**
+- [x] https://flock-tanishq-project.vercel.app/
 ## 🎯 **Assignment Requirements Completion**
+
+
+
 
 ### ✅ **Frontend Features (React/Next.js)**
 - [x] **User Authentication** - Complete signup/login system with JWT
